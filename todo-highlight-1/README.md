@@ -8,7 +8,7 @@
 
 第1回の時点ではまだ動作する機能を実装できていないため、第2回以降で実装するハイライト更新を実行するタイミングで、ターミナルにログを残すようにしています。
 
-![](https://github.com/codegrid/2023-vscode-extension/raw/publish/doc/assets/terminal-log.png)
+![](https://raw.githubusercontent.com/codegrid/2023-vscode-extension/main/todo-highlight-1/doc/assets/terminal-log.png)
 
 ## 実行方法
 
