@@ -16,4 +16,13 @@ VS Codeでこのディレクトリを**新規ウィンドウで**開き、まず
 
 F5キーを押し、ビルドタスクの選択を求められたら、`npm: watch`を選択してください。
 
-すると、新規ウィンドウが開かれるため、そのウィンドウで、Markdown, MDX, JavaScript, TypeScriptのいずれかのファイルを作成し、文字を打ってみたり、ファイルを保存したりしてみてください。
+すると、`[機能拡張開発ホスト]XXXXX`というタイトルを持つ新規ウィンドウが開かれるため、そのウィンドウで、Markdown, MDX, JavaScript, TypeScriptのいずれかのファイルを作成し、文字を打ってみたり、ファイルを保存したりしてみてください。
+
+## 実行結果
+
+ターミナルの「出力」タブには次のような出力が行われます。
+
+```shell
+[Tue Aug 01 2023 11:58:51 GMT+0900 (日本標準時)] ハイライト更新 in activate: /path/to/test.md
+[Tue Aug 01 2023 11:58:51 GMT+0900 (日本標準時)] ハイライト更新 in onDidChangeActiveTextEditor: /path/to/test.md
+```
