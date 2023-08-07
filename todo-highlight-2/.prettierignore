@@ -1,0 +1,4 @@
+*.md
+out/
+package.json
+package-lock.json
