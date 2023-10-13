@@ -9,5 +9,6 @@ CodeGrid連載、[VS Code拡張機能を作ってみよう](https://www.codegrid
 - [第3回のサンプルコード（todo-highlight-3ディレクトリ）](/todo-highlight-3)
 - [第4回のサンプルコード（todo-highlight-4ディレクトリ）](/todo-highlight-4)
 - [第5回のサンプルコード（todo-highlight-5ディレクトリ）](/todo-highlight-5)
+- [第6回のサンプルコード（todo-highlight-6ディレクトリ）](/todo-highlight-6)
 
 コード実行は、VS Codeの**新規ウィンドウ**で各ディレクトリを開いた上で、各ディレクトリ内のREADMEに書かれた手順に従って行ってください。
